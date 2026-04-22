@@ -19,7 +19,6 @@ I care about building inclusive tech ecosystems and developing solutions that co
 
 ### 🧩 What I Do
 
-- AI Product & Software Developer at **KovanLab Venture**  
 - Building scalable systems and real-time ML pipelines  
 - Contributing to AI-for-good and open-source projects  
 - Leading and supporting communities like **YetGen**, **Global AI Hub**, **GDSC**, and others  
